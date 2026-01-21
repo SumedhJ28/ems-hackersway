@@ -1,0 +1,9 @@
+# Node / Next
+node_modules
+.next
+.env
+.env.local
+.turbo
+
+# OS
+.DS_Store
